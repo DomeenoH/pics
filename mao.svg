@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="228" height="281" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <title>mao</title>
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <path id="svg_1" fill="#000000" stroke-width="4" stroke="#000000" d="m210,52c-85.33333,-40 -133.33333,-56 -144,-48c-16,12 12,48 12,64c0,16 -8,16 -16,40c-8,24 -4,24 -8,40c-4,16 -52,20 -52,44c0,24 122.87565,40.23824 152,52c19.41623,7.84117 38.0829,18.50784 56,32l0,-224z"/>
+   <circle opacity="0" r="18" cy="84" cx="140" fill="#FFFFFF" stroke-width="4" stroke="#FFFFFF" id="eye"/>
+   <circle opacity="0" r="18" cy="174" cx="112" fill="#FFFFFF" stroke-width="4" stroke="#FFFFFF" id="eye"/>
+   <line transform="rotate(105 140 84) translate(-138 -82)" stroke-linejoin="round" stroke-linecap="round" fill="#FFFFFF" stroke-width="4" stroke="#FFFFFF" id="-y-" y2="166" x2="296" y1="166" x1="260"/>
+   <line transform="rotate(105 112 174) translate(-110 -172)" stroke-linejoin="round" stroke-linecap="round" fill="#FFFFFF" stroke-width="4" stroke="#FFFFFF" id="-y-" y2="346" x2="240" y1="346" x1="204"/>
+  </g>
+ </g>
+</svg>
